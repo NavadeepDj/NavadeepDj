@@ -9,7 +9,7 @@ Here you'll find some of my projects and contributions.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about machine learning, web development, JavaScript, and Python.
 - 📫 How to reach me: [Email](mailto:navadeepmarella@gmail.com)
-- ⚡ Fun fact: I love watching my fav anime, playing chess and exploring new places
+- ⚡ Fun fact: I love watching my fav anime, building some really exciting solutions, playing chess and exploring new places
 
 ## 🔧 Technologies & Tools
 
@@ -17,7 +17,12 @@ Here you'll find some of my projects and contributions.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%23E34F26.svg?style=for-the-badge&logo=C&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%2314354C.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FAST API](https://img.shields.io/badge/fast--api-%23FF6F00.svg?style=for-the-badge&logo=fast-api&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/machine--learning-%2345b8d8.svg?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Deep Learning](https://img.shields.io/badge/deep--learning-%2345b8d8.svg?style=for-the-badge&logo=deep-learning&logoColor=white)
