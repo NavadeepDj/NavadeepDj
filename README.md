@@ -21,7 +21,7 @@ Here you'll find some of my projects and contributions.
 ![C](https://img.shields.io/badge/C-%23E34F26.svg?style=for-the-badge&logo=C&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%2314354C.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FAST API](https://img.shields.io/badge/fast--api-%23FF6F00.svg?style=for-the-badge&logo=fast-api&logoColor=white)
-![R](https://img.shields.io/badge/C-%23E34F26.svg?style=for-the-badge&logo=C&logoColor=white)
+![R](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=R&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/machine--learning-%2345b8d8.svg?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
