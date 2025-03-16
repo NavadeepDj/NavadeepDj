@@ -24,8 +24,6 @@ Here you'll find some of my projects and contributions.
 ![R](https://img.shields.io/badge/R-%2314354C.svg?style=for-the-badge&logo=R&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/machine--learning-%2345b8d8.svg?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwind&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Deep Learning](https://img.shields.io/badge/deep--learning-%2345b8d8.svg?style=for-the-badge&logo=deep-learning&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-%2345b8d8.svg?style=for-the-badge&logo=ai&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/roboflow-%23FF6F00.svg?style=for-the-badge&logo=roboflow&logoColor=white)
