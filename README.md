@@ -1,6 +1,6 @@
 # Hi there, I'm NavadeepDj 👋
 
-Welcome to my GitHub profile!!! I'm passionate about technology, coding, and constantly learning new things. I always love to explore new things. ALways looking forward to working with people on open source projects and building applications while enjoying.
+Welcome y'all to my GitHub profile!!! I'm passionate about technology, coding, and constantly learning new things. I always love to explore new things. ALways looking forward to working with people on open source projects and building applications while enjoying.
 Here you'll find some of my projects and contributions.
 
 ## 🧑‍💻 About Me
