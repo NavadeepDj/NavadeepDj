@@ -55,7 +55,7 @@ Here you'll find some of my projects and contributions.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/navadeepdj](https://www.linkedin.com/in/navadeep-marel[...]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navadeepdj)
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
