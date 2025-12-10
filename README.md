@@ -36,8 +36,14 @@ Here you'll find some of my projects and contributions.
 
 ## 📈 GitHub Stats
 
-![NavadeepDj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NavadeepDj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavadeepDj&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NavadeepDj&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="NavadeepDj's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavadeepDj&theme=radical&hide_border=true" alt="NavadeepDj's GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavadeepDj&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
 
 ## 📫 Connect with Me
