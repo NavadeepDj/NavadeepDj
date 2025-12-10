@@ -35,7 +35,14 @@ Here you'll find some of my projects and contributions.
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📈 GitHub Stats
+<!-- Example: Profile summary card (alternate service) -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavadeepDj)
 
+<!-- Example: GitHub readme stats (top languages) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavadeepDj&layout=compact)
+
+<!-- Example: simple shields badge for followers -->
+![Followers](https://img.shields.io/github/followers/NavadeepDj?label=Followers&style=social)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NavadeepDj&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="NavadeepDj's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavadeepDj&theme=radical&hide_border=true" alt="NavadeepDj's GitHub Streak" width="48%" />
