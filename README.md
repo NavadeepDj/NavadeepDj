@@ -1,6 +1,6 @@
 # Hi there, I'm NavadeepDj 👋
 
-Welcome y'all to my GitHub profile!!! I'm passionate about technology, coding, and constantly learning new things. I always love to explore new things. ALways looking forward to working with people on open source projects and building applications while enjoying.
+Welcome y'all to my GitHub profile!!! I'm passionate about technology, coding, and constantly learning new things. I always love to explore new things. ALways looking forward to working with people on[...]
 Here you'll find some of my projects and contributions.
 
 ## 🧑‍💻 About Me
@@ -55,7 +55,7 @@ Here you'll find some of my projects and contributions.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/navadeepdj](https://www.linkedin.com/in/navadeep-marella-13a656253/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/navadeepdj](https://www.linkedin.com/in/navadeep-marel[...]
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
