@@ -39,17 +39,25 @@ Here you'll find some of my projects and contributions.
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavadeepDj)
 
 <!-- Example: GitHub readme stats (top languages) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavadeepDj&layout=compact)
+![Top Langs](https://github-readme-stats-nine-gilt-11.vercel.app/api/top-langs/?username=NavadeepDJ&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 
 <!-- Example: simple shields badge for followers -->
 ![Followers](https://img.shields.io/github/followers/NavadeepDj?label=Followers&style=social)
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NavadeepDj&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="NavadeepDj's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavadeepDj&theme=radical&hide_border=true" alt="NavadeepDj's GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavadeepDj&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div> -->
+<div align="center">
+  <img src="https://github-readme-stats-nine-gilt-11.vercel.app/api?username=NavadeepDJ&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavadeepDJ&theme=radical&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-nine-gilt-11.vercel.app/api/top-langs/?username=NavadeepDJ&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
 </div>
 
 
