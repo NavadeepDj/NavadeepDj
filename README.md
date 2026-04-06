@@ -56,9 +56,9 @@ Here you'll find some of my projects and contributions.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavadeepDJ&theme=radical&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats-nine-gilt-11.vercel.app/api/top-langs/?username=NavadeepDJ&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
-</div>
+</div> -->
 
 
 ## 📫 Connect with Me
